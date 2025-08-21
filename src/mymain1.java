@@ -5,7 +5,7 @@ public class mymain1 {
         st.show_address();
 
         st.roll_no=40;
-        System.out.println("Upadated rno.");
+        System.out.println("Updated rno.");
         st.show_rno();
     }
 }
